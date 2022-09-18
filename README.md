@@ -2,7 +2,6 @@
 
 Simple Bio Card UI.
 
-![Simple UI BIO IMAGE](/home/basheer/Desktop/BIO_UI.png)
 ## Getting Started
 
 
